@@ -2,4 +2,5 @@
 <hr>
 <ol>
 	<li>Responsive Navbar</li>
+	<li>Joke Generator</li>
 </ol>
